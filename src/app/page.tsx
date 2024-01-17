@@ -20,6 +20,17 @@ export default function Home() {
           </a>
         </div>
       </div>
+      <div className={styles.description}>
+        <div>
+          <a
+            href="https://google.com.ar"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            v2
+          </a>
+        </div>
+      </div>
     </main>
   );
 }
